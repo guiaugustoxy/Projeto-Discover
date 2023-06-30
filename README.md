@@ -50,7 +50,3 @@ Esse projeto está sob a licença MIT.
 ---
 
 # Created by: Guilherme Augusto ☑
-
-
-
-> > > > > > > 341127af5ecb454c369fcd775c5bc2d9b298019d
